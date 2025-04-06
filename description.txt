@@ -1,0 +1,23 @@
+[2025-04-06] Add Board class with fitness function
+توضیح: تعریف کلاس Board برای نمایش وضعیت وزیرها و محاسبه مقدار Fitness برای هر حالت.
+
+[2025-04-06] Add generate_population and selection functions
+توضیح: پیاده‌سازی تابع ساخت جمعیت اولیه و انتخاب والدین با روش‌های انتخابی الگوریتم ژنتیک.
+
+[2025-04-06] Add crossover and mutate functions
+توضیح: تعریف توابع crossover برای ترکیب والدین و mutate برای ایجاد تنوع در نسل جدید.
+
+[2025-04-06] Add main file to test genetic algorithm
+توضیح: اضافه کردن فایل main.py برای اجرای الگوریتم و نمایش جواب روی کنسول.
+
+[2025-04-06] Merge all branches into main-branch
+توضیح: ادغام همه‌ی بخش‌ها (board-class، algorithm-part1، algorithm-part2، main) در شاخه‌ی اصلی پروژه.
+
+[2025-04-06] Create README.md
+توضیح: نوشتن توضیح کامل پروژه، ساختار فایل‌ها، نحوه اجرا و خروجی نمونه در فایل README.
+
+[2025-04-06] Push local project to GitHub
+توضیح: اتصال ریپوی لوکال به GitHub و ارسال شاخه‌ی main-branch با تمام فایل‌ها.
+
+[2025-04-07] Update fitness function logic
+توضیح: بهینه‌سازی الگوریتم محاسبه fitness برای عملکرد بهتر.
